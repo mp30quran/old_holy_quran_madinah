@@ -26,8 +26,6 @@ Minor bug fixes and improvements. Install or update to the newest version to che
 
 ![image](https://github.com/user-attachments/assets/af4a6baf-4cf9-4878-946d-55dbb794f83d)
 
-![Uploading image.png…]()
-
 
 ![image](https://github.com/user-attachments/assets/77c566e6-6cf7-489c-82f2-74056a088bd7)
 
